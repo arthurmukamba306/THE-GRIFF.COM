@@ -1,2 +1,2 @@
-# the-griff-websit
-Website for THE GRIFF electronics store
+# the-griff.com
+Website for THE GRIFF ELECTRONICS STORE
